@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Address from Salamanca to her (unknown) off-spring Dr. T.O., concerning the present state of affairs in England</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16672</idno><idno type="EEBO-CITATION">8435497</idno>
+  <idno type="VID">204259</idno>
+  <idno type="EEBO-PROQUEST">2264207200</idno>
+  
+            <idno type="STC">Wing A540</idno>
+            <idno type="OCLC">08435497</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204259)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1245:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Address from Salamanca to her (unknown) off-spring Dr. T.O., concerning the present state of affairs in England</title>
+               </titleStmt>
+               <extent>1 sheet   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oates, Titus, 1649-1705.</term>
+               <term type="geographic_name">Great Britain --  History --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb facs="tcp:204259:1"/>
+            <pb facs="tcp:204259:1"/>
+            <pb facs="tcp:204259:2"/>
+            <head>AN ADDRESS FROM SALAMANCA, To her (unknown) Off-spring, D<seg rend="sup">R.</seg>
+               <hi>T. O.</hi> Concerning the present State of <hi>Affairs</hi> in ENGLAND, <hi>Natura——Os Homini sublime dedit.</hi>
+            </head>
+            <lg>
+               <l>SON <hi>Titus,</hi> (for so you strive to be</l>
+               <l>To me, and to the worlds vain Pageantry)</l>
+               <l>From that a Blessing justly you may crave,</l>
+               <l>You the Wits Subject, to your self a Slave;</l>
+               <l>On you they lofty fancies daily file,</l>
+               <l>But Fancies scarce from you can get a smile.</l>
+               <l>Sure such a Boy as you I never bore;</l>
+               <l>Or if I did, I never saw you more,</l>
+               <l>After <hi>Latona</hi> from my Breast you tore.</l>
+               <l>I'll <hi>SWEAR</hi> it not; for Mothers may</l>
+               <l>Mistake the morning-light for noon of day:</l>
+               <l>Short is their sleep, waken'd by Agonies,</l>
+               <l>Sorrow for Sons, and careful Jealousies.</l>
+               <l>Such are my Cares for thee, Oh! could I see</l>
+               <l>In <hi>Parchment Records,</hi> or in <hi>History</hi>
+               </l>
+               <l>Thy Name Inroll'd, that I might Blessings give</l>
+               <l>To thy great Soul, by which thou long maist live;</l>
+               <l>But finding not thy Name, I scarce believe</l>
+               <l>Thou didst from Us a <hi>Doctors</hi> Garb receive:</l>
+               <l>Of thee the only knowledge <hi>England</hi> writes,</l>
+               <l>To thee do flock her <hi>True blue Favourites.</hi>
+               </l>
+               <l>An <hi>O Ye, Yes,</hi> some time ago came hither,</l>
+               <l>For <hi>Bills</hi> as <hi>Black</hi> as the fall'n <hi>Lucifer:</hi>
+               </l>
+               <l>After a <hi>Doctor</hi> too they did enquire,</l>
+               <l>Who was (they say) of our Grave Learned Choir.</l>
+               <l>An Ingenious Pen, with Face Sublime,</l>
+               <l>Does thee describe, as in old time</l>
+               <pb n="1" facs="tcp:204259:3"/>
+               <l>The Poets feign'd Blest Nature to have drest</l>
+               <l>Mankind, to specifie it from Savage Beast.</l>
+               <l>We read of Mighty <hi>Heroes,</hi> and of Fame</l>
+               <l>Sounding Retreats to sense in lofty strain.</l>
+               <l>Of <hi>Oaths</hi> we hear prophan'd to that degree,</l>
+               <l>They work Despair in subtile Gravity,</l>
+               <l>They seem Consederates with <hi>Anarchy.</hi>
+               </l>
+               <l>A Laboratory too we find there is,</l>
+               <l>Which you frequent, and seldom miss:</l>
+               <l>There is beat out much Cunning Closet-Plots,</l>
+               <l>And there you wreath <hi>Associating</hi> Knots.</l>
+               <l>There is a Mighty Smalster, as some tell us,</l>
+               <l>An Emet of a man, from whom God bless us:</l>
+               <l>This Pismire you have lately found,</l>
+               <l>Since the Severer Winters left the Ground.</l>
+               <l>
+                  <hi>Hector</hi> you'r turn'd, you <hi>swear,</hi> and damn the <hi>Nation,</hi>
+               </l>
+               <l>But of the two the former's most your Fashion:</l>
+               <l>King, Prince and <hi>Tory</hi> all you'd drive before ye,</l>
+               <l>Hurling your <hi>Oaths</hi> at those that never saw ye;</l>
+               <l>Your Mercenary <hi>Tongue</hi> does Vice decry,</l>
+               <l>Your practice does commend what you deny:</l>
+               <l>Such holy Cheats as these we can discern;</l>
+               <l>Thus distant from you, we such Frauds can learn;</l>
+               <l>Wonder not, discerning Heads can farther pry</l>
+               <l>In disguiz'd Cassocks sanctifi'd <hi>Knavery,</hi>
+               </l>
+               <l>And into <hi>Campaign-Coats</hi> Cajolry.</l>
+               <l>Destruction naked on your Brow appears,</l>
+               <l>But such it is, that few there are it fears.</l>
+               <l>Such news as this dislodges you from our Breast,</l>
+               <l>Where you did never as a DOCTOR rest.</l>
+               <l>Keep (if thou canst) in beautious <hi>Albions</hi> Plain,</l>
+               <l>A Soil too good for thy distemper'd Brain.</l>
+               <l>A Shipwrack'd Vessel maist thou be</l>
+               <l>In thine own Sea of <hi>Perjury.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Farewel; No more to <hi>Salamanca</hi> Dear,</l>
+               <l>The Name of Son and Mother dyeth here.</l>
+               <l>Excuse me then, if Curses to thee come</l>
+               <l>From <hi>Salamanca,</hi> due to such a Son.</l>
+            </lg>
+            <closer>
+               <dateline>Given at our Consistory at <hi>Salamanca,</hi>
+                  <date>May 10. New-stile, Old-stile May 20.</date>
+               </dateline>
+               <signed>
+                  <hi>'Per Public' Notar</hi>' Hugone Peters <hi>Redivivus.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Banks.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
